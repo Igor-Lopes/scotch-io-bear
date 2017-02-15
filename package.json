@@ -1,0 +1,24 @@
+{
+  "name": "scotch-io-bear",
+  "version": "1.0.0",
+  "description": "Scotch io tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Lopes/scotch-io-bear.git"
+  },
+  "author": "igor-lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Lopes/scotch-io-bear/issues"
+  },
+  "homepage": "https://github.com/Igor-Lopes/scotch-io-bear#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.2"
+  }
+}
